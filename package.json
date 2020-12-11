@@ -5,9 +5,8 @@
         "start": "node server.js"
     },
     "dependencies": {
-        "express": "latest",
-        "network": "latest",
-        "pug": "latest"
+        "express": "4.17.1",
+        "network": "0.5.0",
+        "pug": "3.0.0"
     }
-    
 }
